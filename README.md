@@ -1,2 +1,2 @@
 # ParserCVE
-Python parser for getting recent exploited vulnerabilities
+Python parser for getting recent exploited vulnerabilities.
